@@ -11,7 +11,7 @@ We invite you to contribute to this growing collection of Python projects by sha
 
 ## List of Project Ideas
 ### Overview
-These projects are designed to gradually increase in complexity, helping students build their skills step-by-step from beginner to expert level.
+These projects are designed to gradually increase in complexity, helping students build their skills step-by-step from beginner to expert level.  
 Currently, there are 70 project ideas.
 
 ### Easy projects (20)
