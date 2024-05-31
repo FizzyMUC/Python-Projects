@@ -15,155 +15,155 @@ These projects are designed to gradually increase in complexity, helping student
 Currently, there are 70 project ideas.
 
 ### Easy projects (20)
-**Number Guessing Game**
-Description: Create a game where the program randomly selects a number between 1 and 100, and the user has to guess what it is. The program provides feedback if the guess is too high, too low, or correct.
-Key Concepts: Random number generation, loops, input handling, conditionals.
+**Number Guessing Game**  
+Description: Create a game where the program randomly selects a number between 1 and 100, and the user has to guess what it is. The program provides feedback if the guess is too high, too low, or correct.  
+Key Concepts: Random number generation, loops, input handling, conditionals.  
 Duration: 15 minutes
 
-**Simple Calculator**
-Description: Develop a basic calculator that can perform addition, subtraction, multiplication, and division. Users input two numbers and an operator, and the program returns the result.
-Key Concepts: Functions, input/output, arithmetic operations, error handling.
+**Simple Calculator**  
+Description: Develop a basic calculator that can perform addition, subtraction, multiplication, and division. Users input two numbers and an operator, and the program returns the result.  
+Key Concepts: Functions, input/output, arithmetic operations, error handling.  
 Duration: 20 minutes
 
-**Rock, Paper, Scissors**
-Description: Implement the classic game where the user plays against the computer. The program randomly selects rock, paper, or scissors, and the user inputs their choice. The program then determines the winner.
-Key Concepts: Random choice, conditionals, loops, input handling.
+**Rock, Paper, Scissors**  
+Description: Implement the classic game where the user plays against the computer. The program randomly selects rock, paper, or scissors, and the user inputs their choice. The program then determines the winner.  
+Key Concepts: Random choice, conditionals, loops, input handling.  
 Duration: 15 minutes
 
-**FizzBuzz**
-Description: Write a program that prints numbers from 1 to 100, but for multiples of 3, it prints "Fizz" instead of the number, for multiples of 5 it prints "Buzz", and for multiples of both 3 and 5, it prints "FizzBuzz".
-Key Concepts: Loops, conditionals, modulus operator.
+**FizzBuzz**  
+Description: Write a program that prints numbers from 1 to 100, but for multiples of 3, it prints "Fizz" instead of the number, for multiples of 5 it prints "Buzz", and for multiples of both 3 and 5, it prints "FizzBuzz".  
+Key Concepts: Loops, conditionals, modulus operator.  
 Duration: 10 minutes
 
-**Palindrome Checker**
-Description: Create a program that checks if a given string is a palindrome (reads the same forward and backward). The user inputs a string, and the program returns whether it is a palindrome.
-Key Concepts: String manipulation, input handling, conditionals.
+**Palindrome Checker**  
+Description: Create a program that checks if a given string is a palindrome (reads the same forward and backward). The user inputs a string, and the program returns whether it is a palindrome.  
+Key Concepts: String manipulation, input handling, conditionals.  
 Duration: 15 minutes
 
-**Basic To-Do List**
-Description: Implement a simple to-do list that allows users to add, remove, and view tasks. The tasks can be stored in a list.
-Key Concepts: Lists, functions, loops, input/output.
+**Basic To-Do List**  
+Description: Implement a simple to-do list that allows users to add, remove, and view tasks. The tasks can be stored in a list.  
+Key Concepts: Lists, functions, loops, input/output.  
 Duration: 20 minutes
 
-**Odd or Even**
-Description: Write a program that checks whether a given number is odd or even. The user inputs a number, and the program returns the result.
-Key Concepts: Conditionals, modulus operator, input handling.
+**Odd or Even**  
+Description: Write a program that checks whether a given number is odd or even. The user inputs a number, and the program returns the result.  
+Key Concepts: Conditionals, modulus operator, input handling.  
 Duration: 10 minutes
 
-**Factorial Calculator**
-Description: Create a program that calculates the factorial of a given number. The user inputs a number, and the program returns the factorial.
-Key Concepts: Loops, functions, recursion (optional).
+**Factorial Calculator**  
+Description: Create a program that calculates the factorial of a given number. The user inputs a number, and the program returns the factorial.  
+Key Concepts: Loops, functions, recursion (optional).  
 Duration: 15 minutes
 
-**Temperature Converter**
-Description: Develop a program that converts temperatures between Celsius and Fahrenheit. Users input the temperature and the conversion type.
-Key Concepts: Functions, arithmetic operations, input handling.
+**Temperature Converter**  
+Description: Develop a program that converts temperatures between Celsius and Fahrenheit. Users input the temperature and the conversion type.  
+Key Concepts: Functions, arithmetic operations, input handling.  
 Duration: 10 minutes
 
-**Countdown Timer**
-Description: Implement a countdown timer that counts down from a given number of seconds and prints each second until it reaches zero.
-Key Concepts: Loops, time module, input handling.
+**Countdown Timer**  
+Description: Implement a countdown timer that counts down from a given number of seconds and prints each second until it reaches zero.  
+Key Concepts: Loops, time module, input handling.  
 Duration: 15 minutes
 
-**Name Initials Printer**
-Description: Create a program that takes a user's full name and prints their initials.
-Key Concepts: String manipulation, input handling, loops.
+**Name Initials Printer**  
+Description: Create a program that takes a user's full name and prints their initials.  
+Key Concepts: String manipulation, input handling, loops.  
 Duration: 10 minutes
 
-**Age Calculator**
-Description: Develop a program that calculates a person's age based on their birth year.
-Key Concepts: Date and time manipulation, arithmetic operations, input handling.
+**Age Calculator**  
+Description: Develop a program that calculates a person's age based on their birth year.  
+Key Concepts: Date and time manipulation, arithmetic operations, input handling.  
 Duration: 15 minutes
 
-**Random Password Generator**
-Description: Create a program that generates a random password with a user-specified length.
-Key Concepts: Random generation, string manipulation, loops.
+**Random Password Generator**  
+Description: Create a program that generates a random password with a user-specified length.  
+Key Concepts: Random generation, string manipulation, loops.  
 Duration: 15 minutes
 
-**Simple Mad Libs Game**
-Description: Write a program that takes user input for various parts of speech and then creates a funny story (Mad Libs style).
-Key Concepts: String concatenation, input handling.
+**Simple Mad Libs Game**  
+Description: Write a program that takes user input for various parts of speech and then creates a funny story (Mad Libs style).  
+Key Concepts: String concatenation, input handling.  
 Duration: 15 minutes
 
-**Square Root Calculator**
-Description: Implement a program that calculates the square root of a given number.
-Key Concepts: Math operations, functions, input handling.
+**Square Root Calculator**  
+Description: Implement a program that calculates the square root of a given number.  
+Key Concepts: Math operations, functions, input handling.  
 Duration: 10 minutes
 
-**Email Validator**
-Description: Create a program that checks if an input email address is valid based on basic criteria (contains '@' and '.').
-Key Concepts: String manipulation, conditionals, input handling.
+**Email Validator**  
+Description: Create a program that checks if an input email address is valid based on basic criteria (contains '@' and '.').  
+Key Concepts: String manipulation, conditionals, input handling.  
 Duration: 15 minutes
 
-**Simple Dice Roller**
-Description: Develop a program that simulates rolling a pair of dice and prints the results.
-Key Concepts: Random number generation, loops, conditionals.
+**Simple Dice Roller**  
+Description: Develop a program that simulates rolling a pair of dice and prints the results.  
+Key Concepts: Random number generation, loops, conditionals.  
 Duration: 15 minutes
 
-**Vowel Counter**
-Description: Write a program that counts the number of vowels in a given string.
-Key Concepts: String manipulation, loops, conditionals.
+**Vowel Counter**  
+Description: Write a program that counts the number of vowels in a given string.  
+Key Concepts: String manipulation, loops, conditionals.  
 Duration: 10 minutes
 
-**Multiplication Table Generator**
-Description: Create a program that generates and prints the multiplication table for a given number.
-Key Concepts: Loops, arithmetic operations, input handling.
+**Multiplication Table Generator**  
+Description: Create a program that generates and prints the multiplication table for a given number.  
+Key Concepts: Loops, arithmetic operations, input handling.  
 Duration: 15 minutes
 
-**Word Reverser**
-Description: Develop a program that reverses the order of words in a given sentence.
-Key Concepts: String manipulation, loops.
+**Word Reverser**  
+Description: Develop a program that reverses the order of words in a given sentence.  
+Key Concepts: String manipulation, loops.  
 Duration: 10 minutes
 
 ### Intermediate Projects (20)
-**Hangman Game**
-Description: Develop a text-based version of the Hangman game. The program randomly selects a word, and the user has to guess letters until they either guess the word or run out of attempts.
-Key Concepts: Random word selection, loops, conditionals, lists.
+**Hangman Game**  
+Description: Develop a text-based version of the Hangman game. The program randomly selects a word, and the user has to guess letters until they either guess the word or run out of attempts.  
+Key Concepts: Random word selection, loops, conditionals, lists.  
 Duration: 20 minutes
 
-**Password Generator**
-Description: Create a program that generates a random password based on user-specified criteria (length, inclusion of special characters, etc.).
-Key Concepts: Random generation, string manipulation, functions.
+**Password Generator**  
+Description: Create a program that generates a random password based on user-specified criteria (length, inclusion of special characters, etc.).  
+Key Concepts: Random generation, string manipulation, functions.  
 Duration: 20 minutes
 
-**Unit Converter**
-Description: Develop a program that converts units from one system to another (e.g., Celsius to Fahrenheit, kilometers to miles). Users input the value and the conversion type.
-Key Concepts: Functions, arithmetic operations, input handling.
+**Unit Converter**  
+Description: Develop a program that converts units from one system to another (e.g., Celsius to Fahrenheit, kilometers to miles). Users input the value and the conversion type.  
+Key Concepts: Functions, arithmetic operations, input handling.  
 Duration: 15 minutes
 
-**Simple Text Adventure Game**
-Description: Write a basic text adventure game where users can move between different rooms and interact with items or characters. Each room has a description, and users type commands to navigate.
-Key Concepts: Dictionaries, strings, loops, conditionals, functions.
+**Simple Text Adventure Game**  
+Description: Write a basic text adventure game where users can move between different rooms and interact with items or characters. Each room has a description, and users type commands to navigate.  
+Key Concepts: Dictionaries, strings, loops, conditionals, functions.  
 Duration: 20 minutes
 
-**Prime Number Checker**
-Description: Create a program that checks if a given number is prime. The user inputs a number, and the program returns whether it is prime.
-Key Concepts: Loops, conditionals, functions.
+**Prime Number Checker**  
+Description: Create a program that checks if a given number is prime. The user inputs a number, and the program returns whether it is prime.  
+Key Concepts: Loops, conditionals, functions.  
 Duration: 15 minutes
 
-**BMI Calculator**
-Description: Develop a program that calculates the Body Mass Index (BMI) based on user inputs for weight and height.
-Key Concepts: Functions, arithmetic operations, input handling.
+**BMI Calculator**  
+Description: Develop a program that calculates the Body Mass Index (BMI) based on user inputs for weight and height.  
+Key Concepts: Functions, arithmetic operations, input handling.  
 Duration: 15 minutes
 
-**Tic-Tac-Toe Game**
-Description: Implement a simple Tic-Tac-Toe game for two players. The program keeps track of the game board and determines when a player wins or if there is a draw.
-Key Concepts: Lists, loops, conditionals.
+**Tic-Tac-Toe Game**  
+Description: Implement a simple Tic-Tac-Toe game for two players. The program keeps track of the game board and determines when a player wins or if there is a draw.  
+Key Concepts: Lists, loops, conditionals.  
 Duration: 20 minutes
 
-**Email Slicer**
-Description: Write a program that extracts the username and domain from an email address. The user inputs an email, and the program returns the username and domain.
-Key Concepts: String manipulation, input handling.
+**Email Slicer**  
+Description: Write a program that extracts the username and domain from an email address. The user inputs an email, and the program returns the username and domain.  
+Key Concepts: String manipulation, input handling.  
 Duration: 10 minutes
 
-**Caesar Cipher**
-Description: Create a program that encrypts and decrypts messages using the Caesar Cipher technique. Users input the message and the shift value.
-Key Concepts: String manipulation, loops, functions.
+**Caesar Cipher**  
+Description: Create a program that encrypts and decrypts messages using the Caesar Cipher technique. Users input the message and the shift value.  
+Key Concepts: String manipulation, loops, functions.  
 Duration: 20 minutes
 
-**Day of the Week**
-Description: Develop a program that takes a date as input and returns the day of the week for that date.
-Key Concepts: Date and time manipulation, functions, input handling.
+**Day of the Week**  
+Description: Develop a program that takes a date as input and returns the day of the week for that date.  
+Key Concepts: Date and time manipulation, functions, input handling.  
 Duration: 15 minutes
 
 ### Advanced Projects (15)
